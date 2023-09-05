@@ -1,2 +1,3 @@
-# Springboot-MyBatis-JWT
-Springboot+MyBatis+JWT框架
+# cbhx-backend
+
+船舶画像后端项目
