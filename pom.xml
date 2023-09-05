@@ -8,7 +8,7 @@
     <artifactId>cbhx-backend</artifactId>
     <packaging>pom</packaging>
     <version>1.0.0</version>
-    <description>船舶画像</description>
+    <description>脚手架</description>
 
     <modules>
         <module>cbhx-common</module>
