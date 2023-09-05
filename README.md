@@ -1,3 +1,3 @@
 # cbhx-backend
 
-船舶画像后端项目
+Springboot-MyBatis-JWT脚手架
