@@ -4,16 +4,16 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.cbhx</groupId>
-    <artifactId>cbhx-backend</artifactId>
+    <groupId>com.demo</groupId>
+    <artifactId>demo-backend</artifactId>
     <packaging>pom</packaging>
     <version>1.0.0</version>
     <description>脚手架</description>
 
     <modules>
-        <module>cbhx-common</module>
-        <module>cbhx-dao</module>
-        <module>cbhx-web</module>
+        <module>demo-common</module>
+        <module>demo-dao</module>
+        <module>demo-web</module>
     </modules>
 
 
